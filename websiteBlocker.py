@@ -7,7 +7,7 @@ from tkcalendar import Calendar
 import datetime as dt
 from tkinter import messagebox as msg
 # global variable ---------------->>>>>
-host_path='new.txt'
+host_path="C:/Windows/System32/drivers/etc/hosts"
 ip="127.0.0.1   "
 today_date=dt.date.today()
 
